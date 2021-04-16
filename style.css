@@ -1,0 +1,13 @@
+body {
+    margin: 0 auto;
+    padding: 10% 0;
+    width: 650px;
+    align-items: center;
+    background: url("https://wallpaperaccess.com/full/2474841.jpg") no-repeat;
+}
+.div {
+    font-size: 100px;
+    display: inline-block;
+    background: none;
+}
+

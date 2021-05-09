@@ -5,9 +5,16 @@ body {
     align-items: center;
     background: url("https://wallpaperaccess.com/full/2474841.jpg") no-repeat;
 }
+
 .div {
     font-size: 100px;
     display: inline-block;
+    cursor: pointer;
+    visibility: visible;
+}
+
+.div:active {
+    visibility: hidden;
     background: none;
 }
 

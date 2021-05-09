@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="512a8373-985d-4159-8168-01be4a59000e" name="Default Changelist" comment="" />
+    <list default="true" id="512a8373-985d-4159-8168-01be4a59000e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/testjs.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -24,6 +32,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1r73TQWpCm4FgoMDQMceAac192N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -70,7 +79,12 @@
       <workItem from="1618314946774" duration="3088000" />
       <workItem from="1618326865782" duration="899000" />
       <workItem from="1618493770816" duration="3524000" />
-      <workItem from="1618569114269" duration="7868000" />
+      <workItem from="1618569114269" duration="9047000" />
+      <workItem from="1618819850677" duration="185000" />
+      <workItem from="1620024498870" duration="11349000" />
+      <workItem from="1620123079330" duration="4250000" />
+      <workItem from="1620384943965" duration="631000" />
+      <workItem from="1620588590670" duration="4348000" />
     </task>
     <servers />
   </component>
@@ -154,6 +168,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618314590228" />
+    <state x="342" y="140" key="new project wizard" timestamp="1620120409370">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1620120409370" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1618493855216">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
